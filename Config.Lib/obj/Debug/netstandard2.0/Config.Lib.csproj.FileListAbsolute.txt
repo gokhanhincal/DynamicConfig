@@ -1,0 +1,9 @@
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.Lib\bin\Debug\netstandard2.0\Config.Lib.deps.json
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.Lib\bin\Debug\netstandard2.0\Config.Lib.dll
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.Lib\obj\Debug\netstandard2.0\Config.Lib.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.Lib\obj\Debug\netstandard2.0\Config.Lib.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.Lib\obj\Debug\netstandard2.0\Config.Lib.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.Lib\obj\Debug\netstandard2.0\Config.Lib.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.Lib\bin\Debug\netstandard2.0\Config.Lib.pdb
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.Lib\obj\Debug\netstandard2.0\Config.Lib.dll
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.Lib\obj\Debug\netstandard2.0\Config.Lib.pdb

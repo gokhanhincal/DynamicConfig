@@ -1,0 +1,17 @@
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\bin\Debug\netcoreapp2.2\Config.API.deps.json
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\bin\Debug\netcoreapp2.2\Config.API.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\bin\Debug\netcoreapp2.2\Config.API.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\bin\Debug\netcoreapp2.2\Config.API.dll
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\bin\Debug\netcoreapp2.2\Config.API.pdb
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\bin\Debug\netcoreapp2.2\Config.Lib.dll
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\bin\Debug\netcoreapp2.2\Config.Lib.pdb
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\obj\Debug\netcoreapp2.2\Config.API.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\obj\Debug\netcoreapp2.2\Config.API.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\obj\Debug\netcoreapp2.2\Config.API.RazorAssemblyInfo.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\obj\Debug\netcoreapp2.2\Config.API.RazorAssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\obj\Debug\netcoreapp2.2\Config.API.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\obj\Debug\netcoreapp2.2\Config.API.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\obj\Debug\netcoreapp2.2\Config.API.RazorTargetAssemblyInfo.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\obj\Debug\netcoreapp2.2\Config.API.csproj.CopyComplete
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\obj\Debug\netcoreapp2.2\Config.API.dll
+C:\Users\SAMSUNG\source\repos\ConfigTest\Config.API\obj\Debug\netcoreapp2.2\Config.API.pdb

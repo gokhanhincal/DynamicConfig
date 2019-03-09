@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\bin\Debug\netcoreapp2.2\Config.Test.deps.json
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\bin\Debug\netcoreapp2.2\Config.Test.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\bin\Debug\netcoreapp2.2\Config.Test.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\bin\Debug\netcoreapp2.2\Config.Test.dll
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\bin\Debug\netcoreapp2.2\Config.Test.pdb
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\bin\Debug\netcoreapp2.2\Config.Lib.dll
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\bin\Debug\netcoreapp2.2\Config.Lib.pdb
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\obj\Debug\netcoreapp2.2\Config.Test.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\obj\Debug\netcoreapp2.2\Config.Test.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\obj\Debug\netcoreapp2.2\Config.Test.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\obj\Debug\netcoreapp2.2\Config.Test.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\obj\Debug\netcoreapp2.2\Config.Test.csproj.CopyComplete
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\obj\Debug\netcoreapp2.2\Config.Test.dll
+C:\Users\SAMSUNG\source\repos\ConfigTest\ConfigTest\obj\Debug\netcoreapp2.2\Config.Test.pdb
