@@ -33,6 +33,7 @@ namespace Config.Lib
             this.applicationName = applicationName;
             configCache = new Dictionary<string, List<ConfigModel>>();
             configRepo = new ConfigRepository(connectionString);
+
             if (IsInitialized)
             {
                 return;
@@ -49,10 +50,11 @@ namespace Config.Lib
                 //değer alınmaya çalışılırsa cache de olmayacağndan db den oku
                 //cachede varsa cacheden oku
                 var configModel = configCache.ContainsKey(applicationName) ? configCache[applicationName].FirstOrDefault(p => p.Name.ToLower() == key.ToLower()) : null;
+
                 if (configModel == null)
                 {
-
                     configModel = await configRepo.ReadConfig(applicationName, key);
+
                     if (configModel == null)
                     {
                         return default(T);
@@ -60,6 +62,7 @@ namespace Config.Lib
                 }
 
                 var converter = TypeDescriptor.GetConverter(typeof(T));
+
                 if (converter != null)
                 {
                     // Cast ConvertFromString(string text) : object to (T)
@@ -78,12 +81,11 @@ namespace Config.Lib
         {
             IsInitialized = true;
 
-            Console.WriteLine("başladım");
             Func<Exception, IObservable<List<ConfigModel>>> exceptionHandler = exp =>
             {
-
                 Console.WriteLine("hata " + exp.Message);
                 List<ConfigModel> list = null;
+
                 if (configCache.ContainsKey(applicationName))
                 {
                     list = configCache[applicationName];
@@ -98,8 +100,8 @@ namespace Config.Lib
             };
 
             var dbCall = Observable.FromAsync(() => configRepo.ReadAllConfig(this.applicationName))
-                    .Timeout(TimeSpan.FromMilliseconds(this.refreshTimerIntervalInMs - 100))
-                    .Catch(exceptionHandler);
+                            .Timeout(TimeSpan.FromMilliseconds(this.refreshTimerIntervalInMs - 100))
+                            .Catch(exceptionHandler);
 
             Observable.Interval(TimeSpan.FromMilliseconds(this.refreshTimerIntervalInMs))
                 .StartWith(0)
@@ -111,7 +113,7 @@ namespace Config.Lib
                     {
                         configCache[this.applicationName] = x;
                     }
-                    else
+                    else 
                     {
                         configCache.Add(this.applicationName, x);
                     }

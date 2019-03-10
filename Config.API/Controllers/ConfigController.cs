@@ -25,7 +25,6 @@ namespace Config.API.Controllers
             return Json(allConfig);
         }
 
-        [HttpGet]
         [HttpGet("{appName}/{key}")]
         public async Task<ActionResult<List<ConfigModel>>> Get(string appName, string key)
         {
